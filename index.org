@@ -1,0 +1,288 @@
+#+TITLE: Milestones and Issues of Revamping of existing IIIT-H labs (37)
+#+AUTHOR: Integration Team
+#+DATE: [2017-06-06 Tue] 
+
+* Porting, Testing and fixing of IIIT-H labs
+
+- Timeline for testing and fixing the issues
+
+|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|
+| S.No | Item                              | StartDate     | End Date      | Remarks                                                    |
+|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|
+|    1 | Testing & Fixing of 12 IIITH Labs | May 8th 2017  | May 12th 2017 | DPR Phase II Labs already tested by QA team                |
+|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|
+|    2 | Testing & Fixing of 12 IIITH Labs | May 15th 2017 | May 19th 2017 | DPR Phase II Labs already tested by IIITH QA team          |
+|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|
+|    3 | Testing & Fixing of 12 IIITH Labs | May 22nd 2017 | May 26th 2017 | Not Tested ,Non DPR Phase II Labs                          |
+|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|
+|    4 | Porting Labs to open edX          | May 15th 2017 | May 26th 2017 | Port non ported IIITH labs to open edX                     |
+|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|
+|    5 | Shortlist companies for catalogue | May 8th 2017  | May 26th 2017 | Talk on with PAD advertising. Other options to be explored |
+|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|
+|      |                                   |               |               |                                                            |
+
+** 1. Problem Solving:
+  - Testing and fixing of the issues is done simultaneously.
+  - Total no of issues raised : 76    
+  - No of issues fixed: 54
+  - No of issues to be fixed: 22
+  - 22 Issues are kept open as unable to resolve the issues.
+  - [[https://github.com/Virtual-Labs/problem-solving-iiith/issues?q=is%3Aissue+is%3Aopen][Here]] is the github link for the above issues in detail
+
+** 2. Image Processing lab
+  - Testing and fixing the issues is simultaneously.
+  - Total no of issues raised: 45
+  - No of issues fixed: 14
+  - No of issues to be fixed: 21
+  - [[https://github.com/Virtual-Labs/image-processing-iiith/issues?q=is%3Aissue+is%3Aopen][Here]] is the github link for the above issues in detail 
+
+** 3. Computer Graphics
+  - Testing and fixing the issues is done simultaneously.
+  - No of issues raised: 44
+  - No of issues fixed:31
+  - No of issues to be fixed: 13
+  - The opened issues are yet to be fixed because these issues are
+    related to open edx.
+
+  - [[https://github.com/Virtual-Labs/computer-graphics-iiith/issues?q=is%3Aissue+is%3Aopen][Here]] is the github link for the above issues in  detail 
+
+** 4. VLSI
+ - Testing done 2 weeks ago. Raising and fixing of the issues in
+   progress.
+ - No of issues raised: 54
+ - No of issues fixed: 35
+ - No of issues to be fixed: 17
+ - No of issues on hold: 1
+ - The opened issues are yet to be fixed because these issues are
+   related to open edx.
+ - [[https://github.com/Virtual-Labs/vlsi-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 5. Structural Dynamics
+   - Ported the lab using automation script.
+   - Experiments and feedback should port manually in Iframe.
+   - After porting the lab using automation script included the
+     following sections that are missed out during porting:
+     Introduction, Objective and  Experiment
+   - While porting the lab introduction sections, the content for all
+     the sub-sections of Introduction section is not exported. Added
+     the content for all such sub sections.
+   - In objective section of every experiment images were
+     missed. Added images. 
+   - In all the experiment sections the content is ported using text
+     editor of HTML component.
+   - Removed all the experiment sections and added again using iframe
+     tool.
+   - Testing of the lab is finished except experiments. Have to test
+     the experiments which needs java plugins to run the experiments.
+
+   - Total No of issues raised : 87
+   - No of issues fixed: 60
+   - No of issues to be fixed: 27
+   - No of issues on hold : 0
+
+   - [[https://github.com/Virtual-Labs/structural-dynamics-iiith/issues?q=is%3Aopen+is%3Aissue][Here]] is the github link for the above issues in detail
+
+** 6. Soil Mechanics
+   - Porting of Soil Mechanics lab is done in 6hrs, as the simulations run with java3d, took time to load tha simulation.
+   - Started testing.
+   - Done till flash view of 4th experiment.
+   - Checked the naming difference of flash view in 4th experiment. Need to check the small screen.
+
+   - Total no of issues raised: 57 
+   - No of issues fixed: 0
+   - No of issues to be fixed: 23
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/soil-mechanics-and-foundation-engineering-iiith/issues?page=1&q=is%3Aissue+is%3Aopen][Here]] is the github link for the above issues in detail.
+
+** 7. Speech Signal Processing Lab
+   - Testing and fixing of Speech signal Processing lab is finished.
+   
+   - Total No of issues raised : 25
+   - No of issues fixed: 0
+   - No of issues to be fixed: 25
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/speech-signal-processing-iiith/issues][Here]] is the github link for the above issues in  details
+
+** 8. Circular Dichroism Spectroscopy
+   - Started testing for this lab.
+   - Testing for this lab is already done earlier for UI2.0. 
+   1. Below issues have been raised earlier.
+
+   - No of issues raised: 21
+   - No of issues fixed: 0
+   - No of issues to be fixed: 21
+   - No of issues on hold :
+   
+   - [[https://github.com/Virtual-Labs/circular-dichronism-spectroscopy-iiith/issues][Here]] is the guthub link for the above issues in detail.  
+
+   2. Below issues raised after porting the lab to open-edx  
+   - Testing of 1st experiment is finished.
+   - 4th experiment, could not get the concept.
+
+   - Total No of issues raised : 118
+   - No of issues fixed: 75
+   - No of issues to be fixed: 43
+   - No of issues on hold :
+
+** 9. Colloid and Surface Chemistry
+   - Started testing.
+   - Earlier testing has performed already.
+   - Testing except experiments is finished.
+   
+   - Total No of issues raised : 33
+   - No of issues fixed: 28
+   - No of issues to be fixed: 5
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/colloid-and-surface-chemistry-iiith/issues][Here]] is the github link for the above issues in  detail.
+
+** 10. Analog CMOS VLSI Circuit Design Lab
+   - Started testing.
+   - Testing for the lab is finished. Except experiments.
+
+   - Total No of issues raised : 46
+   - No of issues fixed: 36
+   - No of issues to be fixed: 10
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/analog-cmos-vlsi-circuit-design-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 11. Quantum Chemistry
+   - Started testing.
+   - Testing is finished till Transition State Calculation for a SN2
+     reaction's objective.
+   - Excluding experiments.
+
+   - No of issues raised: 56
+   - No of issues fixed: 36
+   - No of issues to be fixed:20
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/quantum-chemistry-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 12. Data Structures
+   - Testing of data structures lab on open-edx is done.
+
+   - No of issues raised : 41
+   - No of issues fixed : 39
+   - No of issues to be fixed : 3
+   - No of issues on hold: 21
+
+   - [[https://github.com/Virtual-Labs/data-structures-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 13. Natural Language Processing
+   - Testing of Natural Language Processing Lab is done..
+   
+   - Total no. of issues: 17
+   - No. of issues raised: 3
+   - No. of issues fixed: 3
+   
+   - [[https://github.com/Virtual-Labs/natural-language-processing-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 14. Digital Logic Design
+   - Testing of Digital Logic Design LAb is done.
+
+   - Total number of issues raised : 11
+   - No. of issues fixed : 14 (includes previously raised issues)
+   - No. of issues to be fixed : 1
+
+   - [[https://github.com/Virtual-Labs/digital-logic-design-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 15. Computer Organization
+   - Testing and fixing od Computer Organizatoin lab is done.
+   
+   - Total No of issues raised : 17
+   - No of issues fixed: 10
+   - No of issues to be fixed: 7
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/computer-organization-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 17. Pattern Recognition
+   - Testing and fixing of Pattern Recognition lab is finished.
+   
+   - Total No of issues raised : 13
+   - No of issues fixed:  9
+   - No of issues to be fixed: 4
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/pattern-recognition-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 18. Computer Programming
+   - Testing and fixing of Computer Programming lab is finished.
+   
+   - Total No of issues raised : 22
+   - No of issues fixed: 20
+   - No of issues to be fixed: 2
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/computer-programming-responsive-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 19. Problem Solving
+   - Testing and fixing of Problem Solving lab is finished.
+   
+   - Total No of issues raised : 164
+   - No of issues fixed: 140
+   - No of issues to be fixed: 24
+   - No of issues on hold :
+
+   - [[https://github.com/Virtual-Labs/problem-solving-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 20. Natural Language Processing 
+   - Testing and fixing of Natural Language Processing lab is
+     finished.
+
+   - No of issues raised: 17
+   - No of issues fixed: 11
+   - No of issues to be fixed: 6
+
+   - [[https://github.com/Virtual-Labs/natural-language-processing-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 21. Molecular Absorption Spectroscopy
+   - Testing and fixing of Molecular Absorption Spectroscopy is
+     finished.
+   
+   - No of issuesraised: 19
+   - No of issues fixed: 19
+   - No of issues to be fixed: 0
+   - No of issues on hold: 10
+
+   - [[https://github.com/Virtual-Labs/molecular-absorption-spectroscopy-responsive-lab/issues][Here]] is the githublink for the above issues in detail.
+
+** 22. Molecular Fluorescence Spectroscopy
+   - Testing and fixing of Molecular Fluorescence Sectroscopy lab is
+     finished.
+   
+   - No of issues raised: 31
+   - No of issues fixed: 25
+   - No of issues to be fixed: 6
+
+   - [[https://github.com/Virtual-Labs/molecular-florescence-spectroscopy-responsive-lab-iiith/issues][Here]] is the github link for the above issues in detail.
+
+** 23. Molecular Interactions
+
+** 24. Artificial Neural Networks
+
+** 25. Crptography
+
+** 26. Basic Structural Analysis
+  
+** 27. Computational Liguistics
+
+** Open-edx Issues 
+   1) Issues in the experiment section:
+      -  In the experiment section, experiment is not visible in small
+         screen, whereas it is visible in full screen .
+   2) Issues in the Assessment scetion:
+      - Show Answer button is visible when we login as admin. If we
+        login as user, "Show Answer" button is not visble and unable
+        to include the button.
+      - In the  Image processing lab,  assignment is not  available in
+        small screen, whereas it is visible in the full screen.
+   3) BeadCrumb is exceeding and overlapping the "Bookmark" button.
+   4) Lab ID and name on the grey screen is displaying correctly when
+      the screen is morethen 100%.
+   5) If there are special charcters in the quiz questions, unable to port 
+      the quiz section. So, removed such questions and ported the quiz section.
