@@ -1,52 +1,61 @@
-S.No	Lab ID	Lab Name 	Clientside Dependencies	Labs on AWS	Labs on Open-edx	Tested	Comments
+S.No	Lab ID	Lab Name 	        Clientside Dependencies	     Labs on AWS    Labs on Open-edx	Tested	  Comments
 							
-1	cse01	Data Structures	Flash	Y	Y	Y	
-2	ccnsb06	Physical chemistry	Flash	Y	Y	Y	
-3	ccnsb02	Colloid and Surface Chemistry Virtual Lab	Flash	Y	Y	Y	
-4	cse11	Computer Organisation	Flash & Java	Y	Y	Y	
+1	cse01	Data Structures			Flash		     Y			Y		   Y	
+2	ccnsb06	Physical chemistry		Flash		     Y			Y	   	   Y	
+3	ccnsb02	Colloid and Surface 
+		Chemistry Virtual Lab		Flash		     Y			Y	 	   Y	
+4	cse11	Computer Organisation	      Flash & Java	     Y			Y		   Y	
 			4				
 							
-5	cse14	VLSI	Java	Y	Y	Y	
-6	cse15	Digital Logic Design	Java	Y	Y	Y	
-7	cse18	Computer Graphics	Java	Y	Y	Y	
-8	cse20	Pattern recognition	Java	Y	Y	Y	
-9	cse22	Artificial Neural Networks	Java	Y	Y	Y	
-10	ccnsb05	Circular Dichronism Spectroscopy	Java	Y	Y	Y	
-11	cse16	Speech Signal Processing	Java	Y	Y	Y	
-12	cse30	Analog CMOS VLSI Circuit Design	Java		Y	Y	
-13	ccnsb07	Molecular Interactions	Java	Y	Y	Y	
-14	cse17	Mobile Robotics	Java		N	N	                                   Initially this lab did not worked.After porting and fixing of IIIT-H 
-                                                                                                   the labs, while checking all the simulations to update this sheet,
-                        10       		                                                   then came to know simulations in this lab are working. Need to port 
-			                                                                           and test the lab. 
-15	eerc04	Basic Structural Analysis	Java3D & Flash	Y	Y	Y	
-16	eerc01	Strength of Materials	Java3D & Flash	Y	Y	Y	
-17	eerc03	Hydraulics and fluid mechanics	Java3D & Flash	Y	Y	Y	
-18	eerc02	Soil Mechanics 	Java3D & Flash	Y	Y	Y	
-19	eerc06	Structural Dynamics	Java3D & Flash	Y	Y	Y	
-20	ccnsb04	Quantum Chemistry	Java3D & Flash	Y	Y	Y	
+5	cse14	VLSI				Java		     Y			Y	   	   Y	
+6	cse15	Digital Logic Design		Java	 	     Y			Y	 	   Y	
+7	cse18	Computer Graphics		Java		     Y			Y	 	   Y	
+8	cse20	Pattern recognition		Java		     Y			Y	 	   Y	
+9	cse22	Artificial Neural Networks	Java		     Y			Y	  	   Y	
+10	ccnsb05	Circular Dichronism 
+        	Spectroscopy			Java		     Y			Y	  	   Y	
+11	cse16	Speech Signal Processing	Java		     Y			Y		   Y	
+12	cse30	Analog CMOS VLSI Circuit 
+		Design				Java		     Y			Y	   	   Y
+13	ccnsb07	Molecular Interactions		Java		     Y			Y		   Y	
+14	cse17	Mobile Robotics			Java		     N			N	           N      Initially this lab did not worked.After porting and fixing of IIIT-H 
+                                                                                                   		  the labs, while checking all the simulations to update this sheet,
+                        10       		                                                   		  then came to know simulations in this lab are working. Need to port 
+			                                                                           		  and test the lab. 
+15	eerc04	Basic Structural Analysis   Java3D & Flash	     Y			Y		   Y	
+16	eerc01	Strength of Materials	    Java3D & Flash	     Y			Y		   Y	
+17	eerc03	Hydraulics and fluid 
+		mechanics		    Java3D & Flash	     Y			Y		   Y	
+18	eerc02	Soil Mechanics 		    Java3D & Flash	     Y			Y		   Y	
+19	eerc06	Structural Dynamics	    Java3D & Flash	     Y	 		Y		   Y	
+20	ccnsb04	Quantum Chemistry	    Java3D & Flash	     Y			Y		   Y	
 			6				
 							
-21	cse02	Computer programming	JavaScript	Y	Y	Y	
-22	ccnsb03	Molecular Absorption Spectroscopy	JavaScript	Y	Y	Y	
-23	ccnsb01	Molecular Florescence Spectroscopy	JavaScript	Y	Y	Y	
-24	cse19	Image Processing	JavaScript	Y	Y	Y	
+21	cse02	Computer programming	    JavaScript		     Y			Y		   Y	
+22	ccnsb03	Molecular Absorption 
+		Spectroscopy		    JavaScript		     Y			Y		   Y	
+23	ccnsb01	Molecular Florescence 
+		Spectroscopy		    JavaScript		     Y			Y		   Y	
+24	cse19	Image Processing	    JavaScript		     Y			Y		   Y	
 			4				
 							
-25	cse04	Problem Solving Lab	php	Y	Y	Y	
-26	cse30	Cryptography	php	Y	Y	Y	
-27	cse23	Computational Linguistics	php	Y	Y	Y	
-28	cse24	Natural Language Processing	php	Y	Y	Y	
+25	cse04	Problem Solving Lab	    php		 	     Y			Y		   Y	
+26	cse30	Cryptography		    php			     Y			Y		   Y	
+27	cse23	Computational 
+		Linguistics		    php			     Y			Y		   Y	
+28	cse24	Natural Language 
+		Processing		    php			     Y			Y		   Y	
 			4				
 							
 Labs which Simulations are not working 							
-29	emt	Electro Magnetic Theory 		Y			
-30	phy14	Physical Sciences		Y			
-31	eerc05	Geotechnical Engineering		Y			
-32	cse05	Principles of Programming Language		N	N	N	
-33	cse09	Linux		N	N	N	
-34	cse21	Optical Remote Sensing		N	N	N	
-35	cse13	Virtual Advanced VLSI		N	N	N	
-36		Database		N	N	N	
-37	cse06	Datamining		N	N	N	
+29	emt	Electro Magnetic Theory 			     Y			
+30	phy14	Physical Sciences				     Y			
+31	eerc05	Geotechnical Engineering			     Y			
+32	cse05	Principles of Programming 
+		Language					     N		        N		   N	
+33	cse09	Linux						     N			N		   N	
+34	cse21	Optical Remote Sensing				     N			N		   N	
+35	cse13	Virtual Advanced VLSI				     N			N		   N	
+36		Database					     N			N		   N	
+37	cse06	Datamining					     N			N		   N	
 			9				
