@@ -15,9 +15,10 @@ S.No	Lab ID	Lab Name 	Clientside Dependencies	Labs on AWS	Labs on Open-edx	Teste
 11	cse16	Speech Signal Processing	Java	Y	Y	Y	
 12	cse30	Analog CMOS VLSI Circuit Design	Java		Y	Y	
 13	ccnsb07	Molecular Interactions	Java	Y	Y	Y	
-14	cse17	Mobile Robotics	Java		N	N	                                   Initially this lab did not worked.After porting and fixing of IIIT-H the labs, checked all the simulations while updating this sheet,
-                        10       		                                                   then came to know simulations in this lab are working. Need to port and test the lab. 
-														
+14	cse17	Mobile Robotics	Java		N	N	                                   Initially this lab did not worked.After porting and fixing of IIIT-H 
+                                                                                                   the labs, while checking all the simulations to update this sheet,
+                        10       		                                                   then came to know simulations in this lab are working. Need to port 
+			                                                                           and test the lab. 
 15	eerc04	Basic Structural Analysis	Java3D & Flash	Y	Y	Y	
 16	eerc01	Strength of Materials	Java3D & Flash	Y	Y	Y	
 17	eerc03	Hydraulics and fluid mechanics	Java3D & Flash	Y	Y	Y	
