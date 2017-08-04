@@ -18,7 +18,7 @@
 |    4 | Porting Labs to open edX          | May 15th 2017 | May 26th 2017 | Port non ported IIITH labs to open edX                     |
 |------+-----------------------------------+---------------+---------------+------------------------------------------------------------|
 |    5 | Shortlist companies for catalogue | May 8th 2017  | May 26th 2017 | Talk on with PAD advertising. Other options to be explored |
-|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|                                           |                                                                                      
+|------+-----------------------------------+---------------+---------------+------------------------------------------------------------|                                                                                                                            
 
 
 * Status of IIIT-H labs
@@ -82,6 +82,8 @@
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 |   28 | Computational Linguistics           | Y      |    90 | Y        | Y           | PHP             | [[https://github.com/Virtual-Labs/computational-linguistics-iiith/issues][Status]]                        |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
+
+** We could not give 100 for any lab though all of them are working properly because, few issues are like small screen and quiz related issues are still open. Once all the issue are fixed we can say that all the labs are working 100 percent fine. 
 
 ** Open-edx Issues 
    1) Issues in the experiment section:
