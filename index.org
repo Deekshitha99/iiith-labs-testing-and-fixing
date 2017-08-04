@@ -64,35 +64,24 @@
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 |   19 | Molecular Fluorescence Spectroscopy | Y      |    85 | Y        | Y           | JavaScript      | [[https://github.com/Virtual-Labs/molecular-florescence-spectroscopy-responsive-lab-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   20 | Molecular Interaction               | Y      |    85 | y        | Y           | JAVA            |                         |
+|   20 | Molecular Interaction               | Y      |    85 | y        | Y           | JAVA            |  [[https://github.com/Virtual-Labs/molecular-interactions-iiith/issues][Status]]                       |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   21 | Artificial Neural Networks          | Y      |    85 | Y        | Y           | JAVA            |                         |
+|   21 | Artificial Neural Networks          | Y      |    85 | Y        | Y           | JAVA            |  [[https://github.com/Virtual-Labs/artificial-neural-networks-iiith/issues][Status]]                       |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   22 | Cryptography                        | Y      |    90 | Y        | Y           | PHP             |                         |
+|   22 | Cryptography                        | Y      |    90 | Y        | Y           | PHP             | [[https://github.com/Virtual-Labs/cryptography-iiith/issues][Status]]                        |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   23 | Basic Structural Analysis           | Y      |    95 | Y        | Y           | Java3D & Flash  |                         |
+|   23 | Basic Structural Analysis           | Y      |    95 | Y        | Y           | Java3D & Flash  | [[https://github.com/Virtual-Labs/basic-structural-analysis-iiith/issues][Status]]                        |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   24 | Strength Of Materials               | Y      |    95 | Y        | Y           | Java3D & Flash  |                         |
+|   24 | Strength Of Materials               | Y      |    95 | Y        | Y           | Java3D & Flash  | [[https://github.com/Virtual-Labs/basic-engineering-mechanics-and-strength-of-materials-iiith/issues][Status]]                        |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   25 | Physical Chemistry                  | Y      |    95 | Y        | Y           | Flash           |                         |
+|   25 | Physical Chemistry                  | Y      |    95 | Y        | Y           | Flash           | [[https://github.com/Virtual-Labs/physical-chemistry-iiith][Status]]                        |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   26 | Mobile Robotics                     | N      |    80 | N        | Y           | JAVA            |                         |
+|   26 | Mobile Robotics                     | N      |    80 | N        | Y           | JAVA            | [[https://github.com/Virtual-Labs/mobile-robotics-iiith/issues][Status]]                        |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   27 | Hydraulics and Fluid Mechanics      | Y      |    95 | Y        | Y           | Java3D & Flash  |                         |
+|   27 | Hydraulics and Fluid Mechanics      | Y      |    95 | Y        | Y           | Java3D & Flash  | [[https://github.com/Virtual-Labs/hydraulics-and-fluid-mechanics-iiith/issues][Status]]                        |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   28 | Computational Linguistics           | Y      |    90 | Y        | Y           | PHP             |                         |
+|   28 | Computational Linguistics           | Y      |    90 | Y        | Y           | PHP             | [[https://github.com/Virtual-Labs/computational-linguistics-iiith/issues][Status]]                        |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-                                                                                                  
-  
-** 23. Molecular Interactions
-
-** 24. Artificial Neural Networks
-
-** 25. Crptography
-
-** 26. Basic Structural Analysis
-  
-** 27. Computational Liguistics
 
 ** Open-edx Issues 
    1) Issues in the experiment section:
