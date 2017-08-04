@@ -30,19 +30,19 @@
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 |    2 | Image Processing                    | Y      |    90 | Y        | Y           | Php, Js         | [[https://github.com/Virtual-Labs/image-processing-iiith/issues?q=is%3Aissue+is%3Aopen][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|    3 | Computer Graphics                   | Y      |   100 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/computer-graphics-iiith/issues?q=is%3Aissue+is%3Aopen][Status]]                  |
+|    3 | Computer Graphics                   | Y      |   95 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/computer-graphics-iiith/issues?q=is%3Aissue+is%3Aopen][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|    4 | VLSI                                | Y      |   100 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/vlsi-iiith/issues][Status]]                  |
+|    4 | VLSI                                | Y      |   95 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/vlsi-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|    5 | Structural Dynamics                 | Y      |   100 | Y        | Y           | JAVA3D & Flash  | [[https://github.com/Virtual-Labs/structural-dynamics-iiith/issues?q=is%3Aopen+is%3Aissue][Status]]                  |
+|    5 | Structural Dynamics                 | Y      |   95 | Y        | Y           | JAVA3D & Flash  | [[https://github.com/Virtual-Labs/structural-dynamics-iiith/issues?q=is%3Aopen+is%3Aissue][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|    6 | Soil Mechanics                      | Y      |   100 | Y        | Y           | Java3D & Flash  | [[https://github.com/Virtual-Labs/soil-mechanics-and-foundation-engineering-iiith/issues?page=1&q=is%3Aissue+is%3Aopen][Status]]                  |
+|    6 | Soil Mechanics                      | Y      |   95 | Y        | Y           | Java3D & Flash  | [[https://github.com/Virtual-Labs/soil-mechanics-and-foundation-engineering-iiith/issues?page=1&q=is%3Aissue+is%3Aopen][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 |    7 | Speech Signal Processing            | Y      |    70 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/speech-signal-processing-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 |    8 | Circular Dichroism Spectroscopy     | Y      |    90 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/circular-dichronism-spectroscopy-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|    9 | Colloid and Surface Chemistry       | Y      |   100 | Y        | Y           | Flash           | [[https://github.com/Virtual-Labs/colloid-and-surface-chemistry-iiith/issues][Status]]                  |
+|    9 | Colloid and Surface Chemistry       | Y      |   95 | Y        | Y           | Flash           | [[https://github.com/Virtual-Labs/colloid-and-surface-chemistry-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 |   10 | Analog CMOS VLSI circuit design     | Y      |    95 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/analog-cmos-vlsi-circuit-design-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
@@ -52,11 +52,11 @@
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 |   13 | Natural Language Processing         | Y      |    90 | Y        | Y           | PHP             | [[https://github.com/Virtual-Labs/natural-language-processing-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   14 | Digital Logic Design                | Y      |   100 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/digital-logic-design-iiith/issues][Status]]                  |
+|   14 | Digital Logic Design                | Y      |   95 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/digital-logic-design-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   15 | Computer Organization               | Y      |   100 | Y        | Y           | JAVA & Flash    | [[https://github.com/Virtual-Labs/computer-organization-iiith/issues][Status]]                  |
+|   15 | Computer Organization               | Y      |   90 | Y        | Y           | JAVA & Flash    | [[https://github.com/Virtual-Labs/computer-organization-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
-|   16 | Pattern Recognition                 | Y      |   100 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/pattern-recognition-iiith/issues][Status]]                  |
+|   16 | Pattern Recognition                 | Y      |   90 | Y        | Y           | JAVA            | [[https://github.com/Virtual-Labs/pattern-recognition-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 |   17 | Computer Programming                | Y      |    90 | Y        | Y           | JavaScript      | [[https://github.com/Virtual-Labs/computer-programming-responsive-iiith/issues][Status]]                  |
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
