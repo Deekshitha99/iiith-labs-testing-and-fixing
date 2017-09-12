@@ -21,7 +21,25 @@
 |------+-----------------------------------+---------------+---------------+------------------------------------------------------------|                                                                                                                            
 
 
-* Status of IIIT-H labs
+* Summary
+  - Total Number of IIIT Hyderabad Labs : 37
+  - Total Number of working labs : 28
+  - Total Number of non - working labs : 9  
+** Status of IIIT Hyderabad Non-working labs
+|      |                                     |  No of | Git link   |
+| S.No | Lab Name                            | issues | for issues |
+|------+-------------------------------------+--------+------------|
+|    1 | Data Mining                         |      1 | [[https://github.com/Virtual-Labs/datamining-iiith/issues][Issue]]      |
+|    2 | Electromagnetic Theory              |     44 | [[https://github.com/Virtual-Labs/electro-magnetic-theory-iiith/issues][Issues]]     |
+|    3 | Databases                           |      1 | [[https://github.com/Virtual-Labs/databases-iiith/issues][Issues]]     |
+|    4 | Virtual Advanced VLSI Lab           |      0 | [[https://github.com/Virtual-Labs/advanced-vlsi-iiith/issues][Issues]]     |
+|    5 | Optical Remote Sensing              |      5 | [[https://github.com/Virtual-Labs/optical-remote-sensing-iiith/issues][Issues]]     |
+|    6 | Linux Lab                           |      4 | [[https://github.com/Virtual-Labs/linux-lab-iiith/issues][Issues]]     |
+|    7 | Principles of Programming Languages |      1 | [[https://github.com/Virtual-Labs/principles-of-programming-languages-iiith/issues][Issues]]     |
+|    8 | Geotechnical Engineering            |     23 | [[https://github.com/Virtual-Labs/geotechnical-engineering-lab-iiith/issues?q=is%3Aopen+is%3Aissue][Issues]]     |
+|    9 | Physical Sciences                   |      0 | [[https://github.com/Virtual-Labs/physical-sciences-iiith/issues?q=is%3Aissue+is%3Aclosed][Issues]]     |
+
+** Status of IIIT-H working labs
 
 |------+-------------------------------------+--------+-------+----------+-------------+-----------------+-------------------------|
 | S.No | Name of the lab                     | Tested | Score | On Cloud | On Open-Edx | Technology Used | Status of Github Issues |
@@ -99,4 +117,12 @@
    4) Lab ID and name on the grey screen is displaying correctly when
       the screen is morethen 100%.
    5) If there are special charcters in the quiz questions, unable to port 
-      the quiz section. So, removed such questions and ported the quiz section.
+      the quiz section. So, removed such questions and ported the quiz section.   
+* Dependency wise labs details - Summary
+  - Total No of Flash labs : 3
+  - Total No of Java labs : 10
+  - Total No of Java and Flash labs : 1 (Computer Organization)
+  - Total No of Java3D labs : 6
+  - Total No of JavaScript Labs : 3
+  - Total No of PHP labs : 5  
+
