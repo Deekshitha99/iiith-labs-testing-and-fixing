@@ -214,13 +214,18 @@
 
 * Lab Summary as on 29th May 2018 
   Number of Phase II labs with UI 3.0 - 11
+
   Number of Phase II labs with UI 2.0 - 09
+
   Number of Non Phase II labs with UI 3.0 - 02
+
   Number of Non Phase II labs with UI 2.0 - 06
+
   Number of Phase II labs not on vlab.co.in 
   + Computational Linguistics
   + Hydraulics and Fluid Mechanics
   + Basic Engineering Mechanics & Strength Of Materials
   + Molecular Interaction
   + Digital Logic Design   
+
   Number of Non Phase II Experiments with UI 3.0 - 20
